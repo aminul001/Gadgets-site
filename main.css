@@ -1,0 +1,61 @@
+.container{
+    margin-bottom: 30px;
+}
+
+.nav-img{
+    width:180px;
+}
+.gray-bg{
+
+    background-color:white;
+}
+
+.carosol-img{
+    width: 600px;
+}
+.carosol-btn{
+    border: none;
+    padding: 9px 20px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 13px;
+}
+.carosol-row p{
+color: gray;
+}
+
+.carosol-row h1,p{
+    margin-bottom: 30px;
+}
+
+.card-deco{
+    width: 360px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: -3px -3px 16px 4px #e6e6e6;
+    height: 534px;
+}
+.card-img-top{
+    width: 191px;
+    margin-top: 29px;
+}
+
+.card-body h5,p{
+
+text-align: center;
+}
+.btn-price{
+    margin-bottom: 58px;
+}
+.card-bod{
+    margin-top: 15px;
+}
+
+.shoe{
+    width: 191px;
+    height: 212px;
+    border: none;
+    border-radius: 0px 36px;
+    box-shadow: 0px 1px 20px 15px #fff4f4;
+}
